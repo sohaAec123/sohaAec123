@@ -1,6 +1,6 @@
 <!-- Header banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=220&section=header&text=Hi%2C%20I'm%20Subhasmita%20%F0%9F%91%8B&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=B.Tech%20Student%20%7C%20Cyber%20Security%20%26%20IoT%20%7C%20Aspiring%20Software%20Developer&descAlignY=58&descSize=16" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=220&section=header&text=Hi%2C%20I%27m%20Subhasmita%20%F0%9F%91%8B&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=B.Tech%20Student%20%7C%20Cyber%20Security%20and%20IoT%20%7C%20Software%20Developer&descAlignY=58&descSize=16" />
 </p>
 
 <!-- Typing animation -->
@@ -11,8 +11,8 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=00d4ff&style=for-the-badge" />
-  <img src="https://img.shields.io/github/followers/YOUR_USERNAME?style=for-the-badge&logo=github&color=1e2327" />
+  <img src="https://komarev.com/ghpvc/?username=sohaAec123&label=Profile%20Views&color=00d4ff&style=for-the-badge" />
+<img src="https://img.shields.io/github/followers/sohaAec123?style=for-the-badge&logo=github&color=1e2327" />
 </p>
 
 ---
@@ -111,9 +111,9 @@
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg" />
-    <img alt="Contribution snake" src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sohaAec123/sohaAec123/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sohaAec123/sohaAec123/output/github-contribution-grid-snake.svg" />
+    <img alt="Contribution snake" src="https://raw.githubusercontent.com/sohaAec123/sohaAec123/output/github-contribution-grid-snake.svg" />
   </picture>
 </p>
 
